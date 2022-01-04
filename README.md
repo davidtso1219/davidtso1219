@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+```
+Name: Hao-Ting Tso (David) (he/him)
+Major: Computer Science @ University of Caulfonia, San Diego
+Graduate Year: 2024
+Age: 19
+```
+
+### Hello, there!
+
+My name is **Hao-Ting Tso**, but I go by **David**. I hope I can use this website to practice my webdev skill to record my journey as becoming a web developer. I am interested in various fields of computer science such as full-stack development, machine learning, blockchain technology, and bioinformatic. I also have several hobbies such as playing basketball and waching movie.
