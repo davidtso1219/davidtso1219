@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 -->
 
+For TypeSafe: below is from years ago when I started coding, haven't been updating my github for a while.
+
 My name is **Hao-Ting Tso**, but I go by **David**. I am interested in various fields of computer science such as full-stack development, machine learning, blockchain technology, and bioinformatic. I also have several hobbies such as playing basketball and waching movies.
 
 - 🔭 I’m currently working on [my personal portfolio.](https://davidtso.com)
